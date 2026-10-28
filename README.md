@@ -4,19 +4,19 @@ An interactive healthcare business performance dashboard designed to explore rev
 
 ## Dashboard Preview
 
-### 1. Business Performance Overview
+### Business Performance Overview
 ![Business Performance Overview](screenshots/01-business-performance-overview.png)
 
-### 2. Order Analysis
+### Order Analysis
 ![Order Analysis](screenshots/02-order-analysis.png)
 
-### 3. Customer Analysis
+### Customer Analysis
 ![Customer Analysis](screenshots/03-customer-analysis.png)
 
-### 4. Revenue Analysis
+### Revenue Analysis
 ![Revenue Analysis](screenshots/04-revenue-analysis.png)
 
-### 5. Data Quality & Mapping Validation
+### Data Quality & Mapping Validation
 ![Data Quality and Mapping Validation](screenshots/05-data-quality-mapping-validation.png)
 
 ## Project Objectives
