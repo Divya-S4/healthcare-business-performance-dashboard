@@ -39,6 +39,7 @@ An interactive healthcare business performance dashboard designed to explore rev
 
 ## Tools & Skills
 
+- **SQL** 
 - **Power BI** — dashboard design and interactive data visualization *(edit if a different tool was used)*
 - **Data Analysis**
 - **Business Intelligence**
